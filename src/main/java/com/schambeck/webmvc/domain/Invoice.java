@@ -1,6 +1,5 @@
 package com.schambeck.webmvc.domain;
 
-import com.schambeck.webmvc.base.AbstractPersistable;
 import lombok.*;
 
 import javax.persistence.Entity;

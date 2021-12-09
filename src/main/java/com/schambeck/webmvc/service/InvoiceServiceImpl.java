@@ -1,6 +1,6 @@
 package com.schambeck.webmvc.service;
 
-import com.schambeck.webmvc.base.exception.NotFoundException;
+import com.schambeck.webmvc.exception.NotFoundException;
 import com.schambeck.webmvc.domain.Invoice;
 import com.schambeck.webmvc.repository.InvoiceRepository;
 import lombok.RequiredArgsConstructor;

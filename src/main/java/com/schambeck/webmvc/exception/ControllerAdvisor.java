@@ -1,4 +1,4 @@
-package com.schambeck.webmvc.base.exception;
+package com.schambeck.webmvc.exception;
 
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpStatus;

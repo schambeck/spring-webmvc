@@ -1,4 +1,4 @@
-package com.schambeck.webmvc.base;
+package com.schambeck.webmvc.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.springframework.data.annotation.Transient;
