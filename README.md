@@ -1,4 +1,5 @@
 # spring-webmvc
+[![build](https://github.com/schambeck/spring-webmvc/actions/workflows/maven.yml/badge.svg)](https://github.com/schambeck/spring-webmvc/actions/workflows/maven.yml)
 
 Spring Boot REST server application using WebMvc traditional blocking approach with H2 in-memory database.
 
