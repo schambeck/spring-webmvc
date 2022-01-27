@@ -6,7 +6,7 @@ files:
 hooks:
   AfterInstall:
     - location: scripts/package.sh
-      timeout: 20
+      timeout: 300
       runas: ec2-user
   ApplicationStop:
     - location: scripts/server_stop.sh
